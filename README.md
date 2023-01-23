@@ -164,11 +164,11 @@ The icons and website credit are coloured gold.
 <!--- end of features --->
 <!--- testing --->
 ## Testing
-The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, Microsoft Edge Tools and Chrome Developers Tools v109. VS Code using MSE tools has a built-in live preview window (v0.5.2023...) which is linked to Chrome Tools and its many phone templates. Having in effect two browser windows on my desktop linked to VSCode, both of which are editable in real time, I felt no pressure to use GitPod until I needed to. To my way of thinking, especially at my level of coding skills, it seemed a reasonable approach. Throughout the assembly VS Code was regularly checked for problems and by deployment time none were found. Code Beautify was used to tidy code and helped reveal poorly-executed code. When I the coding was ready, I validated the html files using the W3.org website and the CSS code using the website cssportal.com. 
+The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, Microsoft Edge Tools and Chrome Developers Tools v109. VS Code using MSE tools has a built-in live preview window (v0.5.2023...) which is linked to Chrome Tools and its many phone templates. Having in effect two browser windows on my desktop linked to VSCode, both of which are editable in real time, I felt no pressure to use GitPod until I needed to. To my way of thinking, especially at my level of coding skills, it seemed a reasonable approach. Throughout the assembly VS Code was regularly checked for problems and by deployment time none were found. Code Beautify was used to tidy code and helped reveal poorly-executed code. When the coding was ready, I validated the html files using the W3.org website and the CSS code using the website cssportal.com. 
 <!--- end of testing ---> 
 <!--- deployment --->
 ## Deployment
-My first Repo for this site was made on GitHub Desktop and, for me, this was not a good move I feel. Indeed it got junked after a session with my CI mentor! I started a new repo on the GitHub site and was more careful about how it was presented.
+My first Repo for this site was made on GitHub Desktop and, for me, this was not a good move I feel. Indeed it got junked after a session with my CI mentor! I started a new repo called 'bristol_cyber_security' on the GitHub site and have been more careful about how it was presented. The files and folders were uploaded on 23rd January 2023.
 <!--- end of deployment --->
 <!--- wireframes --->
 ## Wireframes
