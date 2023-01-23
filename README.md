@@ -168,7 +168,7 @@ The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, 
 <!--- end of testing ---> 
 <!--- deployment --->
 ## Deployment
-My first Repo for this site was made on GitHub Desktop and, for me, this was not a good move I feel. Indeed it got junked after a session with my CI mentor! I started a new repo called 'bristol_cyber_security' on the GitHub site and have been more careful about how it was presented. The files and folders were uploaded on 23rd January 2023.
+My first Repo for this site was made on GitHub Desktop and, for me, this was not a good move I feel. Indeed it got junked after a session with my CI mentor! I started a new repo called 'bristol_cyber_security' on the GitHub site and have been more careful about how it was presented. The files and folders were uploaded on 23rd January 2023. The BCS website was deployed on GitHub pages here: https://richardjohnnowell.github.io/bristol_cyber_security. Menu and external links work but the site has lost its styling...
 <!--- end of deployment --->
 <!--- wireframes --->
 ## Wireframes
