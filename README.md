@@ -2,7 +2,7 @@
 <!--- table of contents --->
 ## Contents
 * [Introduction](#introduction)
-* [What can our customers expect?](#what_can_our_customers_expect?)
+* [What our customers can expect](#what_our_customers_can_expect)
 * [BCS features](#bcs_features)
   * [Homepage](#homepage)
   * [Solutions](#solutions)
@@ -40,7 +40,7 @@ so that I can host the images used in this project. The link is:
 </a>
 <!--- end of introduction --->
 <!--- customers' expectations --->
-## What can our customers expect?
+## What our customers can expect
 When a potential customer views the BCS site, they are presented with information to help them decide whether they need this service. Facts and
 figures are given aplenty - images are minimal by design - so that BCS gets people thinking. The business is not about curing a machine that
 has a virus, but steps to prevent that happening. As I say at the beginning in the quotes section, I was subject to a ransomware attack
