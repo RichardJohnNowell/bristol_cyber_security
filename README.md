@@ -2,8 +2,8 @@
 <!--- table of contents --->
 ## Contents
 * [Introduction](#introduction)
-* [What our customers can expect](#what_our_customers_can_expect)
-* [BCS features](#bcs_features)
+* [Expectations](#expectations)
+* [Features](#features)
   * [Homepage](#homepage)
   * [Solutions](#solutions)
   * [Contact](#contact)
@@ -13,7 +13,7 @@
 * [Testing](#testing)
 * [Deployment](#deployment)
 * [Wireframes](#wireframes)
-* [Future Versions](#future_versions)
+* [Future](#future)
 * [Credits](#credits)
 <!--- end of table of contents --->
 <!--- page line --->
@@ -40,7 +40,7 @@ so that I can host the images used in this project. The link is:
 </a>
 <!--- end of introduction --->
 <!--- customers' expectations --->
-## What our customers can expect
+## Expectations
 When a potential customer views the BCS site, they are presented with information to help them decide whether they need this service. Facts and
 figures are given aplenty - images are minimal by design - so that BCS gets people thinking. The business is not about curing a machine that
 has a virus, but steps to prevent that happening. As I say at the beginning in the quotes section, I was subject to a ransomware attack
@@ -52,7 +52,7 @@ So our customers want to be defended against those threats, they want to be give
 business, BCS want customers to return if they upgrade their system or like what we do. Users expect an excellent service and hope to get it.
 <!--- end of customers'expectations --->
 <!--- features --->
-## BCS features
+## Features
 <!--- homepage --->
 ### Homepage
 This introduces the potential customer to the aims of BCS. It provides an introduction, a hook, some rhetorical questions, 
@@ -175,7 +175,7 @@ My first Repo for this site was made on GitHub Desktop and, for me, this was not
 Wireframes were constructed using Balsamiq Cloud. I concentrated on three main sizes: Google Nest Hub Max (1280 x 800), iPad (768 x 1024) and iPhone 6/7/8 (414 x 736), for each of the five pages. During the process of constructing the website from the initial paper drawings, I used many Chrome templates to show any sizing issues while developing the wireframes. It was a process that could be called synergetic rather than in strict order. To finalise the wireframe designs that I had made it seemed reasonable to use the Chrome Tools templates that also had image frames. I have also included images for several other devices using just the homepage: Galaxy S20 Ultra (412 x 915), Moto G4 (360 x 640) and a Nexus 6P (412 x 732). All wireframe images are available in the 'assets/bcs_wireframe_images' folder in the GitHub repo.
 <!--- end of wireframes --->
 <!--- future versions --->
-## Future Versions
+## Future
 Enhancements in future releases would be to constrict the width of the title, menu text and pictures so that on wide desktops and screens this would not be stretched. 
 The background would remain fixed as it is over all sizes, but the content's width would be limited to a more manageable size, for instance 800 pixels, which would 
 make for a tighter space and help user experience. With screens becoming bigger and better all the time, this would be a good move I feel.
