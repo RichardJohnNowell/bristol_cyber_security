@@ -44,8 +44,8 @@ so that I can host the images used in this project. The link is:
 When a potential customer views the BCS site, they are presented with information to help them decide whether they need this service. Facts and
 figures are given aplenty - images are minimal by design - so that BCS gets people thinking. The business is not about curing a machine that
 has a virus, but steps to prevent that happening. As I say at the beginning in the quotes section, I was subject to a ransomware attack
-and it was very scary: my life was in a malevolent persons' hands. Thankfully I was able to deal with it myself but I guess that those who can't
-and/or have very sensitive info would pay up. Cyber Management Alliance gives the figure of $111,737,688.23 being paid in ransomware demands
+and it was very scary: my data life was in a malevolent persons' hands. Thankfully I was able to deal with it myself but I guess that those who can't
+and/or have very sensitive info would pay up. The Cyber Management Alliance gives the figure of US$111,737,688.23 being paid in ransomware demands
 in 2022, an extraordinary amount. 
 
 So our customers want to be defended against those threats, they want to be given a sense of security by a business claiming to do so. As a
