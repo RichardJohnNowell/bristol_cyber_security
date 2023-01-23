@@ -180,8 +180,6 @@ Enhancements in future releases would be to constrict the width of the title, me
 The background would remain fixed as it is over all sizes, but the content's width would be limited to a more manageable size, for instance 800 pixels, which would 
 make for a tighter space and help user experience. With screens becoming bigger and better all the time, this would be a good move I feel.
 <!--- end of future versions --->
-<!-- page line --->
----
 <!--- credits --->
 ## Credits
 <ul>
