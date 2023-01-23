@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
 body {
   background-attachment: fixed;
   background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-background-orig_orig.jpg");
@@ -5,7 +7,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
-  font-family: 'Niramit', sans-serif;
   font-size: 16px;
   height: 1525px;
   min-height: 250px;
