@@ -13,8 +13,8 @@ body {
 }
 
 p {
-  padding-left: 10px;
-  padding-right: 10px;
+  width: 66%;
+  margin: auto;
   text-align: center;
 }
 
@@ -109,7 +109,6 @@ footer {
 }
 
 .social-networks i {
-  color: gold;
   font-size: 150%;
   margin: 20px;
 }
