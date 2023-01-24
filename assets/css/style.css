@@ -2,12 +2,12 @@
 
 body {
   background-attachment: fixed;
-  background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-background-orig_orig.jpg");
+  background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-background-2_orig.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
-  font-size: 17px;
+  font-size: 1.0em;
   height: 1525px;
   min-height: 250px;
 }
