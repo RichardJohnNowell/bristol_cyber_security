@@ -172,6 +172,8 @@ footer {
 .figure-caption {
   color: white;
   font-size: 16px;
+  width: 66%;
+  margin: auto;
 }
 
 
