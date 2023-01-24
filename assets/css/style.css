@@ -38,9 +38,10 @@ nav ul {
   background-color: gold;
   border-radius: 10px;
   list-style: none;
-  margin: 5px;
   padding: 0;
   text-align: center;
+  width: 66%;
+  margin: auto;
 }
 
 nav li {
