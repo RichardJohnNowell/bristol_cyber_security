@@ -87,6 +87,8 @@ nav a:hover {
   font-style: italic;
   position: static;
   text-align: center;
+  width: 66%;
+  margin: auto;
 }
 
 .RM_Guard {
