@@ -13,9 +13,9 @@ body {
 }
 
 p {
-  width: 75%;
   margin: auto;
   text-align: center;
+  width: 70%;
 }
 
 
@@ -23,7 +23,7 @@ p {
 
 .header {
   color: gold;
-  font-size: 40px;
+  font-size: 1.2em;
   font-weight: bold;
   letter-spacing: 3px;
   padding-left: 10px;
@@ -38,10 +38,10 @@ nav ul {
   background-color: gold;
   border-radius: 10px;
   list-style: none;
+  margin: auto;
   padding: 0;
   text-align: center;
-  width: 75%;
-  margin: auto;
+  width: 70%;
 }
 
 nav li {
@@ -75,7 +75,7 @@ nav a:hover {
 }
 
 #laptop {
-  padding-bottom: 11px;
+  padding-bottom: 12px;
   padding-top: 0;
   position: static;
   text-align: center;
@@ -86,10 +86,10 @@ nav a:hover {
   border-radius: 10px;
   color: black;
   font-style: italic;
+  margin: auto;
   position: static;
   text-align: center;
-  width: 75%;
-  margin: auto;
+  width: 63%;
 }
 
 .RM_Guard {
@@ -137,16 +137,16 @@ footer {
 }
 
 .phonetips {
-  width: 75%;
   margin: auto;
+  width: 70%;
 }
 
 
 /* ----------------------------------------contact */
 
 .contacts {
-  width: 75%;
   margin: auto;
+  width: 50%;
 }
 
 #Bristol_CC {
@@ -156,8 +156,42 @@ footer {
 
 #contact_heading {
   color: gold;
-  width: 75%;
   margin: auto;
+  width: 50%;
+}
+
+input[type=text], select, textarea {
+  border: 1px solid gold;
+  border-radius: 5px;
+  box-sizing: border-box;
+  padding: 10px;
+  resize: vertical;
+  width: 100%;
+}
+
+.text_area {
+  height: 190px;
+}
+
+input[type=submit] {
+  background-color: gold;
+  border: none;
+  border-radius: 4px;
+  color: black;
+  cursor: pointer;
+  padding: 12px 20px;
+}
+
+input[type=submit]:hover {
+  background-color: silver;
+}
+
+.contact_container {
+  background-color: #f2f2f2;
+  border-radius: 7px;
+  margin: auto;
+  padding: 10px;
+  width: 55%;
 }
 
 
@@ -171,24 +205,28 @@ footer {
 
 .figure-caption {
   color: white;
-  font-size: 16px;
-  width: 75%;
+  font-size: 1.0em;
   margin: auto;
+  width: 70%;
+}
+
+.strong_color {
+  color: gold;
 }
 
 
 /* ----------------------------------------realities */
 
 .facts {
-  width: 75%;
   margin: auto;
+  width: 70%;
 }
 
 .threats {
   color: gold;
-  position: static;
-  width: 75%;
   margin: auto;
+  position: static;
+  width: 70%;
 }
 
 .threats a:hover {
