@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:200,300,400,500,600');
 
 body {
   background-attachment: fixed;
@@ -152,7 +152,7 @@ footer {
 #contact_heading {
   color: gold;
   margin: auto;
-  width: 50%;
+  width: 62%;
 }
 
 input[type=text], select, textarea {
@@ -185,7 +185,7 @@ input[type=submit]:hover {
   border-radius: 10px;
   margin: auto;
   padding: 10px;
-  width: 63%;
+  width: 65%;
 }
 
 
@@ -201,7 +201,7 @@ input[type=submit]:hover {
   color: white;
   font-size: 1.0em;
   margin: auto;
-  width: 70%;
+  width: 63%;
 }
 
 .strong_color {
