@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:200,300,400,500,600');
+/* ----------------------------------------Google font import */
+@import url('https://fonts.googleapis.com/css3?family=Roboto&display=swap');
+/* ----------------------------------------Google font end */
 
 body {
   background-attachment: fixed;
@@ -59,9 +61,8 @@ nav a {
 }
 
 nav a:hover {
-  background-color: silver;
-  border-radius: 9px;
-  color: white;
+  background-color: black;
+  color: gold;
 }
 
 
@@ -115,7 +116,7 @@ footer {
 
 #websitecredit {
   color: gold;
-  font-size: 11px;
+  font-size: 0.6875rem;
   padding-bottom: 6px;
   text-align: center;
 }
@@ -133,12 +134,11 @@ footer {
 #phonedanger {
   color: red;
   padding-bottom: 5px;
-  text-align: left;
 }
 
 .phonetips {
   margin: auto;
-  width: 70%;
+  width: 63%;
 }
 
 
@@ -152,7 +152,7 @@ footer {
 #contact_heading {
   color: gold;
   margin: auto;
-  width: 62%;
+  width: 63%;
 }
 
 input[type=text], select, textarea {
@@ -185,7 +185,7 @@ input[type=submit]:hover {
   border-radius: 10px;
   margin: auto;
   padding: 10px;
-  width: 65%;
+  width: 63%;
 }
 
 
@@ -199,7 +199,7 @@ input[type=submit]:hover {
 
 .figure-caption {
   color: white;
-  font-size: 1.0em;
+  font-size: 1rem;
   margin: auto;
   width: 63%;
 }
@@ -213,14 +213,14 @@ input[type=submit]:hover {
 
 .facts {
   margin: auto;
-  width: 70%;
+  width: 63%;
 }
 
 .threats {
   color: gold;
   margin: auto;
   position: static;
-  width: 70%;
+  width: 63%;
 }
 
 .threats a:hover {
@@ -228,9 +228,6 @@ input[type=submit]:hover {
   color: black;
 }
 
-#realitylinks {
-  text-align: center;
-}
 
 #data_breach_guide {
   margin-bottom: 15px;
