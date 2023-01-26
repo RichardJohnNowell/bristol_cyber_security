@@ -1,4 +1,4 @@
-# Bristol Cyber Solutions
+# Bristol Cyber Solutions 
 <!--- table of contents --->
 ## Contents
 * [Introduction](#introduction)
@@ -13,9 +13,9 @@
 * [Testing](#testing)
 * [Deployment](#deployment)
 * [Wireframes](#wireframes)
-* [Future](#future)
 * [Credits](#credits)
 <!--- end of table of contents --->
+<a href="https://richardjohnnowell.github.io/bristol_cyber_security" title="Bristol Cyber Solutions" target="_blank" rel="noopener"> Visit Bristol Cyber Solutions on GitHub pages</a>
 <!--- page line --->
 --- 
 <!--- introduction --->
@@ -25,9 +25,7 @@ course "Introduction to cyber security: stay safe online". I found myself poorly
 and after chatting about it with a friend, a soletrader, I formed the opinion that there could be a 
 customer base of domestic users, soletraders and micro-businesses. While there are companies already providing 
 cyber services, none of them seemed targeted at small businesses with little money to spend on security issues. 
-My main concern was that I was not qualified enough or had not yet built a trustworthy reputation. A SWOT
-analysis has been started but a formal, presentable business plan has not. It is not necessary at the moment
-anyway.
+My main concern was that I was not qualified enough or had not yet built a trustworthy reputation.
 
 The website I have presented is practicable but unlikely to be used commercially as of yet. Frankly, while
 domestic and business costs spiral upwards, a start-up service is unlikely to attract enough business in the present
@@ -44,8 +42,8 @@ so that I can host the images used in this project. The link is:
 When a potential customer views the BCS site, they are presented with information to help them decide whether they need this service. Facts and
 figures are given aplenty - images are minimal by design - so that BCS gets people thinking. The business is not about curing a machine that
 has a virus, but steps to prevent that happening. As I say at the beginning in the quotes section, I was subject to a ransomware attack
-and it was very scary: my data life was in a malevolent persons' hands. Thankfully I was able to deal with it myself but I guess that those who can't
-and/or have very sensitive info would pay up. The Cyber Management Alliance gives the figure of US$111,737,688.23 being paid in ransomware demands
+and it was very scary: my data life was in a hostile persons' hands. Thankfully I was able to deal with it myself but I guess that those who can't
+and/or have very sensitive info would pay up. Cyber Management Alliance gives the figure of US$111,737,688.23 being paid in ransomware demands
 in 2022, an extraordinary amount. 
 
 So our customers want to be defended against those threats, they want to be given a sense of security by a business claiming to do so. As a
@@ -100,19 +98,13 @@ This gives an explanation of what is available, a phone malware image, phonetips
 <!--- end of solutions --->
 <!--- contact --->
 ### Contact
-The page explains about pricing policy and asks for the customer to contact BCS for details about costs for what they want. (A US Survey said people responded positively to being asked to enquire about prices). There are quotes as well.
-    <ul>
-        <li>The point of this page is to try to get users to see what can happen and what can't, and how much it will cost them. As a 
-            deliberate action, no prices are given and no forms to fill in. This can reinforce the feeling of the transaction being private. 
-            It also can reduce the amount of 'false' enquiries.
-        </li>
-        <li>Contacts include an anonymous and encrypted email address for additional security. The picture of a Bristol cityscape gives
-            context.
-        </li>
-    </ul>
+The Contacts page gives address details and provides a message box for enquiries. It also explains about pricing options 
+but warns that security advice is not a purchase that should be taken lightly. Stating that pricing equates to customers' 
+status and needs indicates that there are different options for different clients.
     <div align="center">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-bristol-center_orig.jpg" title="bristol cityscape" alt="bristol cityscape">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-contact-form_orig.png" title="bsc contact form" alt="bsc contact form">
     </div>
+
 <!--- end of contact --->
 <!--- blog --->
 ### Blog
@@ -144,7 +136,7 @@ The final page gives facts and figures about cyber issues and how it is out ther
              students are invited to a free lunch, only to find that two people in an adjacent room have been hacking their phones while they ate.
              Statements like so-and-so has been to Romania recently produce amazed looks. A must!
         </li>
-        <li>Then there are links to three live threat sites. Observe and wonder!
+        <li>There are links to two live threat sites.
         </li>
         <li>The picture of the Ohio data breach guide is a useful end note, while the OU badge is something I gained.
         </li> 
@@ -155,8 +147,7 @@ The final page gives facts and figures about cyber issues and how it is out ther
 <!--- end of realities --->
 <!--- footer --->
 ### Footer
-The footer shows three social media links and a website credit. It links to the homepages of Facebook, Twitter and Instagram. is a colour that can attract attention.
-The icons and website credit are coloured gold.
+The footer shows three social media links and a website credit. It links to the homepages of Facebook, Twitter and Instagram. The credit is coloured gold.
     <div align="center">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/screenshot-613_orig.png" title="bcs_footer" alt="bcs_footer">
     </div>
@@ -164,29 +155,30 @@ The icons and website credit are coloured gold.
 <!--- end of features --->
 <!--- testing --->
 ## Testing
-The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, Microsoft Edge Tools and Chrome Developers Tools v109. VS Code using MSE tools has a built-in live preview window (v0.5.2023...) which is linked to Chrome Tools and its many phone templates. Having in effect two browser windows on my desktop linked to VSCode, both of which are editable in real time, I felt no pressure to use GitPod until I needed to. To my way of thinking, especially at my level of coding skills, it seemed a reasonable approach. Throughout the assembly VS Code was regularly checked for problems and by deployment time none were found. Code Beautify was used to tidy code and helped reveal poorly-executed code. When the coding was ready, I validated the html files using the W3.org website and the CSS code using the website cssportal.com. 
+The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, Microsoft Edge Tools and Chrome Developers Tools v109. VS Code using MSE tools has a built-in live preview window (v0.5.2023...) which is linked to Chrome Tools and its many phone templates. Having in effect two browser windows on my desktop linked to VSCode, both of which are editable in real time, I felt no pressure to use GitPod until I needed to. Throughout the assembly VS Code was regularly checked for problems and by deployment time none were found. Code Beautify was used to tidy code and helped reveal poorly-executed code. When I felt that the coding was ready, I validated it using the W3.org website as is wanted - the latest validation being on the 26th January 2023. The website was viewed with several android phones, Windows 10 laptops, an iPad and a 24" desktop screen. Also
+3 browsers Firefox, Chrome and MS Edge were checked. (MS Edge seemed to handle the colours best). The site was found to be responsive and all links worked, including the image links to the data hosting site.
 <!--- end of testing ---> 
 <!--- deployment --->
 ## Deployment
-My first Repo for this site was made on GitHub Desktop and, for me, this was not a good move I feel. Indeed it got junked after a session with my CI mentor! I started a new repo called 'bristol_cyber_security' on the GitHub site and have been more careful about how it was presented. The files and folders were uploaded on 23rd January 2023. The BCS website was deployed on GitHub pages here: https://richardjohnnowell.github.io/bristol_cyber_security. Menu and external links work but the site has lost its styling...
+My first Repo for this site was made on GitHub Desktop and, for me, this was not a good move I feel. Indeed it got junked after a session with my CI mentor Rory! I started a new repo on the GitHub site 'bristol_cyber_solutions' and was more careful about how it was presented. The site was first deployed on GitHub pages on the 23rd 
+January 2023 and was found to work. Editing was needed on screen width sizes for compatability and general text thining. After talking to a friend, I conceded
+that the website needed to be less about the possible business and more about the CI project_1 it was built for. (This seems obvious but the business was the initial
+reason for the site). It also became important to homogenize: there were five pages not one website! Styling across the site helped mitigate this.
 <!--- end of deployment --->
 <!--- wireframes --->
 ## Wireframes
 Wireframes were constructed using Balsamiq Cloud. I concentrated on three main sizes: Google Nest Hub Max (1280 x 800), iPad (768 x 1024) and iPhone 6/7/8 (414 x 736), for each of the five pages. During the process of constructing the website from the initial paper drawings, I used many Chrome templates to show any sizing issues while developing the wireframes. It was a process that could be called synergetic rather than in strict order. To finalise the wireframe designs that I had made it seemed reasonable to use the Chrome Tools templates that also had image frames. I have also included images for several other devices using just the homepage: Galaxy S20 Ultra (412 x 915), Moto G4 (360 x 640) and a Nexus 6P (412 x 732). All wireframe images are available in the 'assets/bcs_wireframe_images' folder in the GitHub repo.
 <!--- end of wireframes --->
-<!--- future versions --->
-## Future
-Enhancements in future releases would be to constrict the width of the title, menu text and pictures so that on wide desktops and screens this would not be stretched. 
-The background would remain fixed as it is over all sizes, but the content's width would be limited to a more manageable size, for instance 800 pixels, which would 
-make for a tighter space and help user experience. With screens becoming bigger and better all the time, this would be a good move I feel.
-<!--- end of future versions --->
+<!-- page line --->
+---
 <!--- credits --->
 ## Credits
 <ul>
-    <li>Image credits: Chained laptop and Bristol Cityscape Richard Nowell.
+    <li>Chained laptop: Richard Nowell.
     </li>
-    <li> Luxury blue and golden background image (free licence): 
-       <a href="https://www.freepik.com/free-vector/luxury-blue-golden-background_23916529.htm#page=41&query=texture%20background&position=17&from_view=search&track=sph" title="luxury blue and golden background" target="_blank" alt="luxury blue and golden background" rel="noopener">Freepik
+    <li> Gradient blue background (free licence):
+    <a href="https://www.freepik.com/free-vector/gradient-blue-background_23985227.htm#page=4&query=blue%20background&position=8&from_view=search&track=sph"
+        title="gradient blue background" target="_blank" alt="gradient blue background" rel="noopener">Freepik
     </a>
     </li>
     <li> Malware Infection image by Blogtrepreneur (Wiki Commons):
@@ -216,14 +208,11 @@ make for a tighter space and help user experience. With screens becoming bigger 
     <li> Realities facts and figures: Trend Micro, Statista, The Identity Theft Resource Center, IBM, SonicGuard, Privacy Affairs,
        Cyber Management Alliance.
     </li>  
-    <br>
-    <li> The coding was taken from Code Institute's Love Running, Whiskey Drop and other course sources.
+    <li> Coding was taken from Code Institute's Love Running, Whiskey Drop and other course sources.
     </li>
     <li> Bootstrap coding was copied from their website.
     </li>
-    <li> Syntax from stackoverkill was used for 'Table of Contents'. W3 schools was used for explanations and checking but no code was copied. 
-    </li>
-    <li> Thanks to Rory and Pasquale
+    <li> W3 Schools provided the contact form syntax and styling. Stackoverkill examples were used for the README 'Table of Contents'.
     <!--- end of credits --->
 </ul>
 <!--- end --->
