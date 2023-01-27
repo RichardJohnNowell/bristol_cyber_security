@@ -25,10 +25,8 @@ p {
 
 .header {
   color: gold;
-  font-size: 1.2em;
   font-weight: bold;
-  letter-spacing: 3px;
-  padding-left: 10px;
+  letter-spacing: 2px;
   padding-top: 10px;
   text-align: center;
 }
