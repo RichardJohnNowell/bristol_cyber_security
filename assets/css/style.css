@@ -1,3 +1,5 @@
+/* ----------------------------------------start */
+
 body {
   background-attachment: fixed;
   background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-background-plain_orig.jpg");
@@ -43,9 +45,10 @@ nav ul {
 nav li {
   display: inline-block;
   font-size: 1.2em;
+  font-weight: 500;
   height: 40px;
   line-height: 40px;
-  margin-left: 6px;
+  margin-left: 7px;
 }
 
 nav a {
@@ -62,12 +65,6 @@ nav a:hover {
 
 /* ----------------------------------------homepage and socials*/
 
-#introduction {
-  color: gold;
-  padding-bottom: 5px;
-  padding-top: 5px;
-  text-align: center;
-}
 
 #laptop {
   padding-bottom: 12px;
@@ -81,6 +78,7 @@ nav a:hover {
   border-radius: 10px;
   color: black;
   font-style: italic;
+  font-weight: 400;
   margin: auto;
   position: static;
   text-align: center;
@@ -109,7 +107,7 @@ footer {
 }
 
 #websitecredit {
-  color: gold;
+  color: red;
   font-size: 0.6875rem;
   padding-bottom: 6px;
   text-align: center;
@@ -135,6 +133,19 @@ footer {
   width: 63%;
 }
 
+#solutions_h2 {
+  color: red;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+#solutions_h3 {
+  color: red;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+
 
 /* ----------------------------------------contact */
 
@@ -143,14 +154,21 @@ footer {
   width: 50%;
 }
 
-#contact_heading {
-  color: gold;
-  margin: auto;
-  width: 63%;
+#contact_here {
+  font-weight: 700;
+  font-size: 1.3rem;
 }
 
+#dividing_line {
+  align: center;
+  background-color: white;
+  height: 2px;
+  width: 60%;
+}
+
+
 input[type=text], select, textarea {
-  border: 3px solid gold;
+  border: 3px solid black;
   border-radius: 10px;
   box-sizing: border-box;
   padding: 10px;
@@ -164,9 +182,10 @@ input[type=text], select, textarea {
 
 input[type=submit] {
   background-color: gold;
-  border: none;
+  border: 3px solid black;
   border-radius: 10px;
   color: black;
+  font-weight: 600;
   cursor: pointer;
   padding: 12px 20px;
 }
@@ -198,10 +217,6 @@ input[type=submit]:hover {
   width: 63%;
 }
 
-.strong_color {
-  color: gold;
-}
-
 
 /* ----------------------------------------realities */
 
@@ -211,7 +226,8 @@ input[type=submit]:hover {
 }
 
 .threats {
-  color: gold;
+  color: white;
+  font-weight: 500;
   margin: auto;
   position: static;
   width: 63%;
@@ -225,11 +241,6 @@ input[type=submit]:hover {
 
 #data_breach_guide {
   margin-bottom: 15px;
-  position: static;
-  text-align: center;
-}
-
-#ou_badge {
   position: static;
   text-align: center;
 }
