@@ -8,14 +8,14 @@ body {
   background-size: cover;
   color: white;
   font-size: 1rem;
-  height: 1525px;
+  height: 1530px;
   min-height: 250px;
 }
 
 p {
   margin: auto;
   text-align: center;
-  width: 70%;
+  width: 84%;
 }
 
 
@@ -39,7 +39,6 @@ nav ul {
   margin: auto;
   padding: 0;
   text-align: center;
-  width: 70%;
 }
 
 nav li {
@@ -80,17 +79,19 @@ nav a:hover {
   font-style: italic;
   font-weight: 400;
   margin: auto;
+  padding-left: 7px;
+  padding-right: 7px;
   position: static;
   text-align: center;
-  width: 63%;
+}
+
+
+footer {
+  height: 50px;
 }
 
 .RM_Guard {
   padding-bottom: 0;
-}
-
-footer {
-  height: 50px;
 }
 
 .social-networks {
@@ -107,8 +108,8 @@ footer {
 }
 
 #websitecredit {
-  color: red;
-  font-size: 0.6875rem;
+  color: white;
+  font-size: 0.8rem;
   padding-bottom: 6px;
   text-align: center;
 }
@@ -130,7 +131,7 @@ footer {
 
 .phonetips {
   margin: auto;
-  width: 63%;
+  padding-right: 10px;
 }
 
 #solutions_h2 {
@@ -151,7 +152,13 @@ footer {
 
 .contacts {
   margin: auto;
-  width: 50%;
+  width: 52%;
+}
+
+.contact_container {
+  border-radius: 10px;
+  margin: auto;
+  padding: 10px;
 }
 
 #contact_here {
@@ -160,25 +167,12 @@ footer {
 }
 
 #dividing_line {
-  align: center;
+  text-align: center;
   background-color: white;
   height: 2px;
-  width: 60%;
+  width: 54%;
 }
 
-
-input[type=text], select, textarea {
-  border: 3px solid black;
-  border-radius: 10px;
-  box-sizing: border-box;
-  padding: 10px;
-  resize: vertical;
-  width: 100%;
-}
-
-.text_area {
-  height: 190px;
-}
 
 input[type=submit] {
   background-color: gold;
@@ -191,14 +185,20 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: silver;
+  background-color: red;
 }
 
-.contact_container {
+input[type=text], select, textarea {
+  border: 3px solid black;
   border-radius: 10px;
-  margin: auto;
+  box-sizing: border-box;
   padding: 10px;
-  width: 63%;
+  resize: vertical;
+  width: 100%;
+}
+
+.text_area {
+  height: 190px;
 }
 
 
@@ -214,15 +214,19 @@ input[type=submit]:hover {
   color: white;
   font-size: 1rem;
   margin: auto;
-  width: 63%;
 }
 
 
 /* ----------------------------------------realities */
 
+#data_breach_guide {
+  position: static;
+  text-align: center;
+}
+
 .facts {
   margin: auto;
-  width: 63%;
+  padding-right: 10px;
 }
 
 .threats {
@@ -230,7 +234,7 @@ input[type=submit]:hover {
   font-weight: 500;
   margin: auto;
   position: static;
-  width: 63%;
+  width: 52%;
 }
 
 .threats a:hover {
@@ -239,10 +243,48 @@ input[type=submit]:hover {
 }
 
 
-#data_breach_guide {
-  margin-bottom: 15px;
-  position: static;
-  text-align: center;
+/* ----------------------------------------media queries */
+
+@media only screen and (min-width: 601px) {
+  .contact_container {
+    width: 52%;
+  }
+}
+
+@media only screen and (min-width: 601px) {
+  .container {
+    width: 50%;
+  }
+}
+
+@media only screen and (min-width: 601px) {
+  .facts {
+    width: 52%;
+  }
+}
+
+@media only screen and (min-width: 601px) {
+  .figure-caption {
+    width: 52%;
+  }
+}
+
+@media only screen and (min-width: 601px) {
+  nav ul {
+    width: 54%;
+  }
+}
+
+@media only screen and (min-width: 601px) {
+  p {
+    width: 54%;
+  }
+}
+
+@media only screen and (min-width: 601px) {
+  .phonetips {
+    width: 54%;
+  }
 }
 
 
