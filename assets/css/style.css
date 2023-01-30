@@ -8,16 +8,13 @@ body {
   background-size: cover;
   color: white;
   font-size: 1rem;
-  height: 1530px;
-  min-height: 250px;
 }
 
 p {
   margin: auto;
   text-align: center;
-  width: 84%;
+  width: 88%;
 }
-
 
 /* ----------------------------------------header */
 
@@ -28,7 +25,6 @@ p {
   padding-top: 10px;
   text-align: center;
 }
-
 
 /* ----------------------------------------menu */
 
@@ -61,13 +57,10 @@ nav a:hover {
   color: gold;
 }
 
-
 /* ----------------------------------------homepage and socials*/
 
-
 #laptop {
-  padding-bottom: 12px;
-  padding-top: 0;
+  padding-bottom: 20px;
   position: static;
   text-align: center;
 }
@@ -85,13 +78,8 @@ nav a:hover {
   text-align: center;
 }
 
-
 footer {
   height: 50px;
-}
-
-.RM_Guard {
-  padding-bottom: 0;
 }
 
 .social-networks {
@@ -114,7 +102,6 @@ footer {
   text-align: center;
 }
 
-
 /* ----------------------------------------solutions */
 
 #mobileattack {
@@ -126,7 +113,6 @@ footer {
 
 #phonedanger {
   color: red;
-  padding-bottom: 5px;
 }
 
 .phonetips {
@@ -146,7 +132,43 @@ footer {
   text-align: center;
 }
 
+/* ----------------------------------------blog */
 
+.blog {
+  padding: 20px 10px 20px 10px;
+  position: static;
+  text-align: center;
+}
+
+.figure-caption {
+  color: white;
+  font-size: 1rem;
+  margin: auto;
+}
+
+/* ----------------------------------------realities */
+
+#data_breach_guide {
+  position: static;
+  text-align: center;
+}
+
+.facts {
+  margin: auto;
+  padding-right: 10px;
+}
+
+.threats {
+  color: white;
+  font-weight: 500;
+  margin: auto;
+  position: static;
+}
+
+.threats a:hover {
+  background-color: silver;
+  color: black;
+}
 
 /* ----------------------------------------contact */
 
@@ -170,9 +192,8 @@ footer {
   text-align: center;
   background-color: white;
   height: 2px;
-  width: 54%;
+  width: 52%;
 }
-
 
 input[type=submit] {
   background-color: gold;
@@ -201,91 +222,18 @@ input[type=text], select, textarea {
   height: 190px;
 }
 
-
-/* ----------------------------------------blog */
-
-.blog {
-  padding: 20px 10px 20px 10px;
-  position: static;
-  text-align: center;
-}
-
-.figure-caption {
-  color: white;
-  font-size: 1rem;
-  margin: auto;
-}
-
-
-/* ----------------------------------------realities */
-
-#data_breach_guide {
-  position: static;
-  text-align: center;
-}
-
-.facts {
-  margin: auto;
-  padding-right: 10px;
-}
-
-.threats {
-  color: white;
-  font-weight: 500;
-  margin: auto;
-  position: static;
-  width: 52%;
-}
-
-.threats a:hover {
-  background-color: silver;
-  color: black;
-}
-
-
 /* ----------------------------------------media queries */
 
 @media only screen and (min-width: 601px) {
-  .contact_container {
+  .contact_container, .container, .facts, .figure, .phonetips, .threats {
     width: 52%;
   }
 }
 
 @media only screen and (min-width: 601px) {
-  .container {
-    width: 50%;
-  }
-}
-
-@media only screen and (min-width: 601px) {
-  .facts {
-    width: 52%;
-  }
-}
-
-@media only screen and (min-width: 601px) {
-  .figure-caption {
-    width: 52%;
-  }
-}
-
-@media only screen and (min-width: 601px) {
-  nav ul {
+  nav ul, p {
     width: 54%;
   }
 }
-
-@media only screen and (min-width: 601px) {
-  p {
-    width: 54%;
-  }
-}
-
-@media only screen and (min-width: 601px) {
-  .phonetips {
-    width: 54%;
-  }
-}
-
 
 /* ----------------------------------------end */
