@@ -148,6 +148,10 @@ footer {
 
 /* ----------------------------------------realities */
 
+#contact_bolts {
+  color: red;
+}
+
 #data_breach_guide {
   position: static;
   text-align: center;
@@ -218,6 +222,10 @@ input[type=text], select, textarea {
   width: 100%;
 }
 
+.line_padding {
+  padding-bottom: 8px;
+}
+
 .text_area {
   height: 190px;
 }
@@ -226,13 +234,13 @@ input[type=text], select, textarea {
 
 @media only screen and (min-width: 601px) {
   .contact_container, .container, .facts, .figure, .phonetips, .threats {
-    width: 52%;
+    width: 56%;
   }
 }
 
 @media only screen and (min-width: 601px) {
   nav ul, p {
-    width: 54%;
+    width: 58%;
   }
 }
 
