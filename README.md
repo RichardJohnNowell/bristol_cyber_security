@@ -6,9 +6,9 @@
 * [Features](#features)
   * [Homepage](#homepage)
   * [Solutions](#solutions)
-  * [Contact](#contact)
   * [Blog](#blog)
   * [Realities](#realities)
+  * [Contact](#contact)
   * [Footer](#footer)
 * [Testing](#testing)
 * [Deployment](#deployment)
@@ -72,7 +72,7 @@ an image, quotes and a blog preview.
         </li>
     </ul>
     <div align="center">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-final-laptop_orig.jpg" title="bcs chained laptop" alt="bcs chained laptop">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-final-laptop_orig.jpg" title="bcs chained laptop" width="350" height="198" alt="bcs chained laptop">
     </div>
 <!--- end of homepage --->
 <!--- solutions --->
@@ -93,19 +93,9 @@ This gives an explanation of what is available, a phone malware image, phonetips
         </li>
     </ul>
     <div align="center">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/published/bcs-phoneinfection.jpg?1674307099" title="smartphone warning!" alt="smartphone warning!">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/published/bcs-phoneinfection.jpg?1674307099" title="smartphone warning!" width="350" height="260" alt="smartphone warning!">
     </div>
 <!--- end of solutions --->
-<!--- contact --->
-### Contact
-The Contacts page gives address details and provides a message box for enquiries. It also explains about pricing options 
-but warns that security advice is not a purchase that should be taken lightly. Stating that pricing equates to customers' 
-status and needs indicates that there are different options for different clients.
-    <div align="center">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-contact-form_orig.png" title="bsc contact form" alt="bsc contact form">
-    </div>
-
-<!--- end of contact --->
 <!--- blog --->
 ### Blog
 This page shows items of interest about security happenings and some issues that people face.
@@ -123,12 +113,12 @@ This page shows items of interest about security happenings and some issues that
         </li>
     </ul>
     <div align="center">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-databreach_orig.jpg" title="data breaches twitter and facebook" alt="data breaches twitter and facebook">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-databreach_orig.jpg" title="data breaches twitter and facebook" width="350" height="215" alt="data breaches twitter and facebook">
     </div>
 <!--- end of blog --->
 <!--- realities --->
 ### Realities
-The final page gives facts and figures about cyber issues and how it is out there in cyberland. It also gives links to sites that demonstrate this.
+This page gives facts and figures about cyber issues and how it is out there in cyberland. It also gives links to sites that demonstrate this.
     <ul>
         <li> The first line says a lot about the state of affairs: "For all of 2021, Trend Micro reports over 94 billion threats, a 42% increase from 2020."
         </li>
@@ -138,32 +128,39 @@ The final page gives facts and figures about cyber issues and how it is out ther
         </li>
         <li>There are links to two live threat sites.
         </li>
-        <li>The picture of the Ohio data breach guide is a useful end note, while the OU badge is something I gained.
+        <li>The picture of the Ohio data breach guide is a useful end note.
         </li> 
     </ul>
     <div align="center">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-data-breach-guide_orig.jpg" title="data breach guide" alt="data breach guide"> 
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-data-breach-guide_orig.jpg" title="data breach guide" width="350" height="215"  alt="data breach guide"> 
     </div>
 <!--- end of realities --->
+<!--- contact --->
+### Contact
+The Contacts page gives address details and provides a contact form for enquiries. It also explains about pricing options 
+but warns that security advice is not a purchase that should be taken lightly. Stating that pricing equates to customers' 
+status and needs indicates that there are different options for different clients. Contact details for BCS are given, though made up.
+    <div align="center">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-contact_orig.png" title="bsc contact form" alt="bsc contact form">
+    </div>
+<!--- end of contact --->
 <!--- footer --->
 ### Footer
-The footer shows three social media links and a website credit. It links to the homepages of Facebook, Twitter and Instagram. The credit is coloured gold.
+The footer shows three social media links and a website credit. It links to the homepages of Facebook, Twitter and Instagram. The credit is coloured white.
     <div align="center">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/screenshot-613_orig.png" title="bcs_footer" alt="bcs_footer">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-footer_orig.png" title="bcs_footer" alt="bcs_footer">
     </div>
 <!--- end of footer --->
 <!--- end of features --->
 <!--- testing --->
 ## Testing
-The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, Microsoft Edge Tools and Chrome Developers Tools v109. VS Code using MSE tools has a built-in live preview window (v0.5.2023...) which is linked to Chrome Tools and its many phone templates. Having in effect two browser windows on my desktop linked to VSCode, both of which are editable in real time, I felt no pressure to use GitPod until I needed to. Throughout the assembly VS Code was regularly checked for problems and by deployment time none were found. Code Beautify was used to tidy code and helped reveal poorly-executed code. When I felt that the coding was ready, I validated it using the W3.org website as is wanted - the latest validation being on the 26th January 2023. The website was viewed with several android phones, Windows 10 laptops, an iPad and a 24" desktop screen. Also
-3 browsers Firefox, Chrome and MS Edge were checked. (MS Edge seemed to handle the colours best). The site was found to be responsive and all links worked, including the image links to the data hosting site.
+The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, Microsoft Edge Tools and Chrome Developers Tools v109. VS Code using MSE tools has a built-in live preview window (v0.5.2023...) which is linked to Chrome Tools and its many phone templates. Having in effect two browser windows on my desktop linked to VSCode, both of which are editable in real time, I felt no pressure to use GitPod until I needed to. Throughout the assembly VS Code was regularly checked for problems and by deployment time none were found. Code Beautify was used to tidy code and helped reveal poorly-executed code. When I felt that the coding was ready, I validated it using the W3.org website as is wanted - the latest validation being on the 26th January 2023. The website was viewed with several android phones, Windows 10 laptops, an iPad and a 24" desktop screen. Also 3 browsers Firefox, Chrome and MS Edge were checked. (MS Edge seemed to handle the colours best). 
+
+The site was found to be responsive and all links worked, including the image links to the data hosting site. The website Lighthouse was used to check accessibility for screen readers and for people who are partially-sighted and was found to have a 100% rating on both mobile and desktops for each page. Other performance indicators are all in the nineties for desktops although the performance could be better for mobiles. Screenshots of each of the 10 tests are available in the 'assets/validation' folder in the BCS repo.
 <!--- end of testing ---> 
 <!--- deployment --->
 ## Deployment
-My first Repo for this site was made on GitHub Desktop and, for me, this was not a good move I feel. Indeed it got junked after a session with my CI mentor Rory! I started a new repo on the GitHub site 'bristol_cyber_solutions' and was more careful about how it was presented. The site was first deployed on GitHub pages on the 23rd 
-January 2023 and was found to work. Editing was needed on screen width sizes for compatability and general text thining. After talking to a friend, I conceded
-that the website needed to be less about the possible business and more about the CI project_1 it was built for. (This seems obvious but the business was the initial
-reason for the site). It also became important to homogenize: there were five pages not one website! Styling across the site helped mitigate this.
+My first Repo for this site was made on GitHub Desktop and, for me, this was not a good move I feel. Indeed it got junked after a session with my CI mentor Rory! I started a new repo on the GitHub site 'bristol_cyber_solutions' and was more careful about how it was presented. The site was first deployed on GitHub pages on the 23rd January 2023 and was found to work. Editing was needed on screen width sizes for compatability and general text thining. After talking to a friend, I conceded that the website needed to be less about the possible business and more about the CI project_1 it was built for. (This seems obvious but the business was the initial reason for the site). It also became important to homogenize: there were five pages not one website! Styling across the site helped mitigate this.
 <!--- end of deployment --->
 <!--- wireframes --->
 ## Wireframes
@@ -176,21 +173,12 @@ Wireframes were constructed using Balsamiq Cloud. I concentrated on three main s
 <ul>
     <li>Chained laptop: Richard Nowell.
     </li>
-    <li> Gradient blue background (free licence):
-    <a href="https://www.freepik.com/free-vector/gradient-blue-background_23985227.htm#page=4&query=blue%20background&position=8&from_view=search&track=sph"
-        title="gradient blue background" target="_blank" alt="gradient blue background" rel="noopener">Freepik
-    </a>
-    </li>
     <li> Malware Infection image by Blogtrepreneur (Wiki Commons):
       <a href="https://upload.wikimedia.org/wikipedia/commons/1/1f/Malware_Infection_%2829811036725%29.jpg" title="malware Infection" target="_blank" alt="malware infection" rel="noopener">Malware Infection
     </a>
     </li>
     <li> Data breach prevention and response guide for businesses (Wiki Commons): 
        <a href="https://upload.wikimedia.org/wikipedia/commons/0/05/Data_breach_prevention_and_response_guide_for_businesses_-_DPLA_-_02aaebd2ac1fc07c2692f451f22c6c2f.jpg" title="data breach prevention" target="_blank" alt="data breach prevention" rel="noopener">Data Breach Guide
-    </a>
-    </li>
-    <li> Open University badge from "Introduction to cyber security: stay safe online":
-       <a href="https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=content-tab" title="open university badge" target="_blank" alt="open university badge" rel="noopener">Open University badge
     </a>
     </li>  
     <li> Royal Mail cyber attack: The Guardian 11 January 2023.
@@ -212,7 +200,8 @@ Wireframes were constructed using Balsamiq Cloud. I concentrated on three main s
     </li>
     <li> Bootstrap coding was copied from their website.
     </li>
-    <li> W3 Schools provided the contact form syntax and styling. Stackoverkill examples were used for the README 'Table of Contents'.
+    <li> W3 Schools provided the contact form syntax and styling - this was edited to suit. Stackoverkill examples were used for the README 'Table of Contents'.
+    <li> Thanks especially to my mentor Rory Sheridan.
     <!--- end of credits --->
 </ul>
 <!--- end --->
