@@ -15,7 +15,8 @@
 * [Wireframes](#wireframes)
 * [Credits](#credits)
 <!--- end of table of contents --->
-<a href="https://richardjohnnowell.github.io/bristol_cyber_security" title="Bristol Cyber Solutions" target="_blank" rel="noopener"> Visit Bristol Cyber Solutions on GitHub pages</a>
+<a href="https://richardjohnnowell.github.io/bristol_cyber_security" title="bristol_cyber_security_repo" target="_blank" alt="bristol_cyber_security_repo" rel="noopener"> Visit Bristol Cyber Solutions on GitHub pages.
+</a>
 <!--- page line --->
 --- 
 <!--- introduction --->
@@ -33,9 +34,7 @@ economic climate. This might well change... I registered a domain with the compa
 Manchester as it was important to me to find a company registered in England and whose servers were in England: 
 I could then be sure that jurisdictionally I was covered by the Data protection Act 2018. However, while the 
 project is published on GitHub, this is not the case. I have used the domain name for server space
-so that I can host the images used in this project. The link is:
-<a href="https://www.bristolcybersolutions.co.uk" title="bristol cyber solutions" target="_blank" alt="bristol cyber solutions" rel="noopener">Bristol Cyber Solutions
-</a>
+so that I can host the images used in this project.
 <!--- end of introduction --->
 <!--- customers' expectations --->
 ## Expectations
@@ -72,7 +71,7 @@ an image, quotes and a blog preview.
         </li>
     </ul>
     <div align="center">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-final-laptop_orig.jpg" title="bcs chained laptop" width="350" height="198" alt="bcs chained laptop">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-final-laptop_orig.jpg" title="bcs_chained_laptop" width="350" height="198" alt="bcs_chained_laptop">
     </div>
 <!--- end of homepage --->
 <!--- solutions --->
@@ -93,7 +92,7 @@ This gives an explanation of what is available, a phone malware image, phonetips
         </li>
     </ul>
     <div align="center">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/published/bcs-phoneinfection.jpg?1674307099" title="smartphone warning!" width="350" height="260" alt="smartphone warning!">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/published/bcs-phoneinfection.jpg?1674307099" title="smartphone_warning!" width="350" height="260" alt="smartphone_warning!">
     </div>
 <!--- end of solutions --->
 <!--- blog --->
@@ -113,7 +112,7 @@ This page shows items of interest about security happenings and some issues that
         </li>
     </ul>
     <div align="center">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-databreach_orig.jpg" title="data breaches twitter and facebook" width="350" height="215" alt="data breaches twitter and facebook">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-databreach_orig.jpg" title="data_breaches_twitter_and_facebook" width="350" height="215" alt="data_breaches_twitter_and_facebook">
     </div>
 <!--- end of blog --->
 <!--- realities --->
@@ -132,7 +131,7 @@ This page gives facts and figures about cyber issues and how it is out there in 
         </li> 
     </ul>
     <div align="center">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-data-breach-guide_orig.jpg" title="data breach guide" width="350" height="215"  alt="data breach guide"> 
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-data-breach-guide_orig.jpg" title="data_breach_guide" width="350" height="215"  alt="data_breach_guide"> 
     </div>
 <!--- end of realities --->
 <!--- contact --->
@@ -141,7 +140,7 @@ The Contacts page gives address details and provides a contact form for enquirie
 but warns that security advice is not a purchase that should be taken lightly. Stating that pricing equates to customers' 
 status and needs indicates that there are different options for different clients. Contact details for BCS are given, though made up.
     <div align="center">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-contact_orig.png" title="bsc contact form" alt="bsc contact form">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-contact_orig.png" title="bsc_contact_form" alt="bsc_contact_form">
     </div>
 <!--- end of contact --->
 <!--- footer --->
@@ -154,19 +153,46 @@ The footer shows three social media links and a website credit. It links to the 
 <!--- end of features --->
 <!--- testing --->
 ## Testing
-The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, Microsoft Edge Tools and Chrome Developers Tools v109. VS Code using MSE tools has a built-in live preview window (v0.5.2023...) which is linked to Chrome Tools and its many phone templates. Having in effect two browser windows on my desktop linked to VSCode, both of which are editable in real time, I felt no pressure to use GitPod until I needed to. Throughout the assembly VS Code was regularly checked for problems and by deployment time none were found. Code Beautify was used to tidy code and helped reveal poorly-executed code. When I felt that the coding was ready, I validated it using the W3.org website as is wanted - the latest validation being on the 26th January 2023. The website was viewed with several android phones, Windows 10 laptops, an iPad and a 24" desktop screen. Also 3 browsers Firefox, Chrome and MS Edge were checked. (MS Edge seemed to handle the colours best). 
-
-The site was found to be responsive and all links worked, including the image links to the data hosting site. The website Lighthouse was used to check accessibility for screen readers and for people who are partially-sighted and was found to have a 100% rating on both mobile and desktops for each page. Other performance indicators are all in the nineties for desktops although the performance could be better for mobiles. Screenshots of each of the 10 tests are available in the 'assets/validation' folder in the BCS repo.
+The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, Microsoft Edge Tools and Chrome Developers Tools v109. VS Code using MSE tools has a built-in live preview window (v0.5.2023...) which is linked to Chrome Tools and its many phone templates. Having in effect two browser windows on my desktop linked to VSCode, both of which are editable in real time, I felt no pressure to use GitPod until I needed to. Throughout the assembly VS Code was regularly checked for problems and by deployment time none were found. Code Beautify was used to tidy code and helped reveal poorly-executed code. When I felt that the coding was ready, I validated it using the W3.org website as is wanted - the latest validation being on the 30th January 2023. The website was viewed with several android phones, Windows 10 laptops, an iPad and a 24" desktop screen. Also 3 browsers Firefox, Chrome and MS Edge were checked. (MS Edge seemed to handle the colours best). The site was found to be responsive and all links worked, including the image links to the data hosting site.
 <!--- end of testing ---> 
-<!--- deployment --->
+<!--- deployment section --->
 ## Deployment
-My first Repo for this site was made on GitHub Desktop and, for me, this was not a good move I feel. Indeed it got junked after a session with my CI mentor Rory! I started a new repo on the GitHub site 'bristol_cyber_solutions' and was more careful about how it was presented. The site was first deployed on GitHub pages on the 23rd January 2023 and was found to work. Editing was needed on screen width sizes for compatability and general text thining. After talking to a friend, I conceded that the website needed to be less about the possible business and more about the CI project_1 it was built for. (This seems obvious but the business was the initial reason for the site). It also became important to homogenize: there were five pages not one website! Styling across the site helped mitigate this.
-<!--- end of deployment --->
-<!--- wireframes --->
+  I started a new repo on the GitHub site 'bristol_cyber_security' and was careful about how it was presented. The site was first deployed on GitHub pages on the 23rd January 2023 and was found to work. Editing was needed on screen width sizes for compatability and general text thining. It also became important to homogenize: there were five pages not one website! Styling across the site helped mitigate this. The process was:
+    <ul>
+        <li>The repo 'bristol_cyber_security' was started from within GitHub on the 23rd January 2023.
+        </li>
+        <li>The website 'Bristol Cyber Solutions' was usable at the time when first deployed and was seen by staff at the City of Bristol College who were generally positive.
+        </li>
+        <li>After deployment, it became clear that although the background vector image was attractive, it was hindrance to actually reading the text
+         unless the user scrolled. It looked great but the user experience was negative. This was the background used with the wireframe examples.
+        </li>
+        <li>That colourful background image was changed within a week for a more 'corporate' type blue vector background with some broad 
+          diagonal lines of the same blue colour which my friends and I thought looked good and seemed reasonable.
+        </li>
+        <li> Yet during a session with my mentor Rory, we looked at the website Lighthouse to guage how it scored, only to find that parts of it scored 95% in accessibility and so had to be improved. There were mainly problems with some gold text and the background pattern.
+        </li>
+        <li> The present plain  blue background was introduced and the gold text was taken out. The pages were then presented to Lighthouse on the 30th January which gave it 100% for accessibility for all pages using mobile and desktop criteria. Screenshots of those Lighthouse pages can be found here: <a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images/BCS_assets_images_validation" title="lighthouse_homepage_scores" target="_blank" alt="lighthouse_homepage_scores" rel="noopener">BCS Lighthouse validation. 
+        </a>
+        Note that the addresses are for the repo 'bristol_cyber_security'. Also in this folder are screenshots of the W3 validation from the 30th.
+        </li>
+        <li>I illustrate this with a homepage screenshot of mobile and desktop scores. Altogether there are 10 screenshots.
+        </li>
+    </ul>
+    <div align="center">
+    <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-mobile-homepage_orig.jpg" title="bcs_lighthouse_mobile" alt="bcs_lighthouse_mobile">
+    </div>
+    <div align="center">
+    <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-desktop-homepage_orig.jpg" title="bcs_lighthouse_desktop" alt="bcs_lighthouse_desktop">
+    </div>
+<!--- end of deployment section --->
+<!--- start of wireframe section --->
 ## Wireframes
-Wireframes were constructed using Balsamiq Cloud. I concentrated on three main sizes: Google Nest Hub Max (1280 x 800), iPad (768 x 1024) and iPhone 6/7/8 (414 x 736), for each of the five pages. During the process of constructing the website from the initial paper drawings, I used many Chrome templates to show any sizing issues while developing the wireframes. It was a process that could be called synergetic rather than in strict order. To finalise the wireframe designs that I had made it seemed reasonable to use the Chrome Tools templates that also had image frames. I have also included images for several other devices using just the homepage: Galaxy S20 Ultra (412 x 915), Moto G4 (360 x 640) and a Nexus 6P (412 x 732). All wireframe images are available in the 'assets/bcs_wireframe_images' folder in the GitHub repo.
+Wireframes were constructed using Balsamiq Cloud. I concentrated on three main sizes: Google Nest Hub Max (1280 x 800), iPad (768 x 1024) and iPhone 6/7/8 (414 x 736), for each of the five pages. During the process of constructing the website from the initial paper drawings, I used many Chrome templates to show any sizing issues while developing the wireframes. It was a process that could be called synergetic rather than in strict order. To finalise the wireframe designs that I had made it seemed reasonable to use the Chrome Tools templates that also had image frames. I have also included images for several other devices using just the homepage: Galaxy S20 Ultra (412 x 915), Moto G4 (360 x 640) and a Nexus 6P (412 x 732). All wireframe images are available
+<a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images" title="bcs_wireframe_images" target="_blank" alt="bcs_wireframe_images"
+rel="noopener">here.
+</a>
 <!--- end of wireframes --->
-<!-- page line --->
+<!--- page line --->
 ---
 <!--- credits --->
 ## Credits
@@ -174,11 +200,11 @@ Wireframes were constructed using Balsamiq Cloud. I concentrated on three main s
     <li>Chained laptop: Richard Nowell.
     </li>
     <li> Malware Infection image by Blogtrepreneur (Wiki Commons):
-      <a href="https://upload.wikimedia.org/wikipedia/commons/1/1f/Malware_Infection_%2829811036725%29.jpg" title="malware Infection" target="_blank" alt="malware infection" rel="noopener">Malware Infection
+      <a href="https://upload.wikimedia.org/wikipedia/commons/1/1f/Malware_Infection_%2829811036725%29.jpg" title="malware_infection" target="_blank" alt="malware_infection" rel="noopener">Malware Infection
     </a>
     </li>
     <li> Data breach prevention and response guide for businesses (Wiki Commons): 
-       <a href="https://upload.wikimedia.org/wikipedia/commons/0/05/Data_breach_prevention_and_response_guide_for_businesses_-_DPLA_-_02aaebd2ac1fc07c2692f451f22c6c2f.jpg" title="data breach prevention" target="_blank" alt="data breach prevention" rel="noopener">Data Breach Guide
+       <a href="https://upload.wikimedia.org/wikipedia/commons/0/05/Data_breach_prevention_and_response_guide_for_businesses_-_DPLA_-_02aaebd2ac1fc07c2692f451f22c6c2f.jpg" title="data_breach_prevention" target="_blank" alt="data_breach_prevention" rel="noopener">Data Breach Guide
     </a>
     </li>  
     <li> Royal Mail cyber attack: The Guardian 11 January 2023.
@@ -190,7 +216,7 @@ Wireframes were constructed using Balsamiq Cloud. I concentrated on three main s
     <li> Costa Rica: The Independent 17 June 2022.
     </li>
         <li> Parts of the 'phonetips' page was taken from '20 Ways to Block Mobile Attacks' on the Know B4 website:
-       <a href="https://www.knowbe4.com/hubfs/20WaysToStopMobileAttacks.pdf" title="20-ways-to-block-mobile-attacks" target="_blank" alt="20-ways-to-block-mobile-attacks" rel="noopener">20 ways to block mobile attacks
+       <a href="https://www.knowbe4.com/hubfs/20WaysToStopMobileAttacks.pdf" title="20_ways_to_block_mobile_attacks" target="_blank" alt="20_ways_to_block_mobile_attacks" rel="noopener">20 ways to block mobile attacks
        </a>
     </li>
     <li> Realities facts and figures: Trend Micro, Statista, The Identity Theft Resource Center, IBM, SonicGuard, Privacy Affairs,
@@ -202,6 +228,6 @@ Wireframes were constructed using Balsamiq Cloud. I concentrated on three main s
     </li>
     <li> W3 Schools provided the contact form syntax and styling - this was edited to suit. Stackoverkill examples were used for the README 'Table of Contents'.
     <li> Thanks especially to my mentor Rory Sheridan.
-    <!--- end of credits --->
 </ul>
+<!--- end of credits --->
 <!--- end --->
