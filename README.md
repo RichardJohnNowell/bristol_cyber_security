@@ -12,6 +12,7 @@
   * [Footer](#footer)
 * [Testing](#testing)
 * [Deployment](#deployment)
+* [Validation](#validation)
 * [Wireframes](#wireframes)
 * [Credits](#credits)
 <!--- end of table of contents --->
@@ -155,6 +156,7 @@ The footer shows three social media links and a website credit. It links to the 
 ## Testing
 The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, Microsoft Edge Tools and Chrome Developers Tools v109. VS Code using MSE tools has a built-in live preview window (v0.5.2023...) which is linked to Chrome Tools and its many phone templates. Having in effect two browser windows on my desktop linked to VSCode, both of which are editable in real time, I felt no pressure to use GitPod until I needed to. Throughout the assembly VS Code was regularly checked for problems and by deployment time none were found. Code Beautify was used to tidy code and helped reveal poorly-executed code. When I felt that the coding was ready, I validated it using the W3.org website as is wanted - the latest validation being on the 30th January 2023. The website was viewed with several android phones, Windows 10 laptops, an iPad and a 24" desktop screen. Also 3 browsers Firefox, Chrome and MS Edge were checked. (MS Edge seemed to handle the colours best). The site was found to be responsive and all links worked, including the image links to the data hosting site.
 <!--- end of testing ---> 
+
 <!--- deployment section --->
 ## Deployment
   I started a new repo on the GitHub site 'bristol_cyber_security' and was careful about how it was presented. The site was first deployed on GitHub pages on the 23rd January 2023 and was found to work. Editing was needed on screen width sizes for compatability and general text thining. It also became important to homogenize: there were five pages not one website! Styling across the site helped mitigate this. The process was:
@@ -171,20 +173,34 @@ The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, 
         </li>
         <li> Yet during a session with my mentor Rory, we looked at the website Lighthouse to guage how it scored, only to find that parts of it scored 95% in accessibility and so had to be improved. There were mainly problems with some gold text and the background pattern.
         </li>
-        <li> The present plain  blue background was introduced and the gold text was taken out. The pages were then presented to Lighthouse on the 30th January which gave it 100% for accessibility for all pages using mobile and desktop criteria. Screenshots of those Lighthouse pages can be found here: <a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images/BCS_assets_images_validation" title="lighthouse_homepage_scores" target="_blank" alt="lighthouse_homepage_scores" rel="noopener">BCS Lighthouse validation. 
-        </a>
-        Note that the addresses are for the repo 'bristol_cyber_security'. Also in this folder are screenshots of the W3 validation from the 30th.
+        <li> The present plain  blue background was introduced and the gold text was taken out. This has remained the final colour 
         </li>
-        <li>I illustrate this with a homepage screenshot of mobile and desktop scores. Altogether there are 10 screenshots.
+        <li> Various icons were added using Font Awesome. Colouring some of these proved to be hard to read so the majority of them became plain again.
+        </li>
+        <li> After my final session with my mentor on the 31st of January, I submitted the website using the appropriate form on the 1st February.
         </li>
     </ul>
-    <div align="center">
-    <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-mobile-homepage_orig.jpg" title="bcs_lighthouse_mobile" alt="bcs_lighthouse_mobile">
-    </div>
-    <div align="center">
-    <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/bcs-desktop-homepage_orig.jpg" title="bcs_lighthouse_desktop" alt="bcs_lighthouse_desktop">
-    </div>
 <!--- end of deployment section --->
+ 
+<!--- begining of validation section --->
+## Validation
+ A new set of validation folders with images were uploaded on the 6th March 2023. They can now be found here: 
+    <ul>
+        <li><a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images/BSC_Nu_Validation_Folder_6th_march" title="New validation folder" target="_blank" rel="noopener">W3 validations</a>
+        </li>
+        <li>
+         <a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images/BSC_Nu_Validation_Folder_6th_march/Accessibility" title="New accessibility folder" target="_blank" rel="noopener">Accessibility validations</a>
+        </li>
+   </ul>
+ Two screenshots below show examples of this:
+    <div align="center">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BSC_Nu_Validation_Folder_6th_march/Accessibility/homepage%20mobile.png" title="bcs_lighthouse_homepage_mobile" width="800" height="450" alt="bcs_lighthouse_mobile">
+    </div>
+    <div align="center">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BSC_Nu_Validation_Folder_6th_march/Accessibility/homepage%20desktop.png" title="bcs_lighthouse_homepage_desktop" width="800" height="450" alt="bcs_lighthouse_desktop">
+    </div>
+<!--- end of validation section --->
+ 
 <!--- start of wireframe section --->
 ## Wireframes
 Wireframes were constructed using Balsamiq Cloud. I concentrated on three main sizes: Google Nest Hub Max (1280 x 800), iPad (768 x 1024) and iPhone 6/7/8 (414 x 736), for each of the five pages. During the process of constructing the website from the initial paper drawings, I used many Chrome templates to show any sizing issues while developing the wireframes. It was a process that could be called synergetic rather than in strict order. To finalise the wireframe designs that I had made it seemed reasonable to use the Chrome Tools templates that also had image frames. I have also included images for several other devices using just the homepage: Galaxy S20 Ultra (412 x 915), Moto G4 (360 x 640) and a Nexus 6P (412 x 732). All wireframe images are available
