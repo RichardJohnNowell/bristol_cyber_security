@@ -184,7 +184,7 @@ The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, 
  
 <!--- begining of validation section --->
 ## Validation
- A new set of validation folders with images were uploaded on the 6th March 2023. They can now be found here: 
+ A new set of validation folders with images were uploaded on the 6th February 2023. They can now be found here: 
     <ul>
         <li><a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images/BSC_Nu_Validation_Folder_6th_march" title="New validation folder" target="_blank" rel="noopener">W3 validations</a>
         </li>
