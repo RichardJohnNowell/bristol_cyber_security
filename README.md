@@ -193,9 +193,11 @@ The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, 
          <a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images/PageSpeed_Insights" title="New PageSpeed Insights folder" target="_blank" rel="noopener">PageSpeed Insight validations</a>
         </li>
     </ul>
+Example: W3 CSS validation
         <div align="center">
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BSC_Nu_Validation_Folder_6th_march/BSC_CSS%20validation.png" title="BCS_CSS_validation_image" width="800" height="450" alt="bcs_CSS_validation">
         </div>
+Example: PageSpeed Insight accessibility
         <div align="center">
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_homepage_mobile.png" title="bcs_PageSpeed_homepage_mobile" width="800" height="450" alt="bcs_PageSpeed_mobile">
         </div>
