@@ -179,6 +179,7 @@ The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, 
         </li>
         <li> After my final session with my mentor on the 31st of January, I submitted the website using the appropriate form on the 1st February.
         </li>
+        <li> 7th February started using a lighter blue/grey background. Tested with PageSpeed Insights and was found to be OK on all pages.
     </ul>
 <!--- end of deployment section --->
  
