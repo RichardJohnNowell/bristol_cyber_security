@@ -193,13 +193,6 @@ The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, 
          <a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images/BSC_Nu_Validation_Folder_6th_march/Accessibility" title="New accessibility folder" target="_blank" rel="noopener">Accessibility validations</a>
         </li>
    </ul>
- Two screenshots below show examples of this:
-    <div align="center">
-        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BSC_Nu_Validation_Folder_6th_march/Accessibility/homepage%20mobile.png" title="bcs_lighthouse_homepage_mobile" width="800" height="450" alt="bcs_lighthouse_mobile">
-    </div>
-    <div align="center">
-        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BSC_Nu_Validation_Folder_6th_march/Accessibility/homepage%20desktop.png" title="bcs_lighthouse_homepage_desktop" width="800" height="450" alt="bcs_lighthouse_desktop">
-    </div>
 <!--- end of validation section --->
  
 <!--- start of wireframe section --->
