@@ -189,9 +189,7 @@ The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, 
     <ul>
         <li><a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images/BSC_Nu_Validation_Folder_6th_march" title="New validation folder" target="_blank" rel="noopener">W3 validations</a>
         </li>
-        <li>
-         <a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images/BSC_Nu_Validation_Folder_6th_march/Accessibility" title="New accessibility folder" target="_blank" rel="noopener">Accessibility validations</a>
-        </li>
+
    </ul>
 <!--- end of validation section --->
  
