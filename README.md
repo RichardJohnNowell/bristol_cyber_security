@@ -216,10 +216,13 @@ Example: PageSpeed Insight accessibility for homepage_mobile (there are ten alto
  
 <!--- start of wireframe section --->
 ## Wireframes
-Wireframes were constructed using Balsamiq Cloud. I concentrated on three main sizes: Google Nest Hub Max (1280 x 800), iPad (768 x 1024) and iPhone 6/7/8 (414 x 736), for each of the five pages. During the process of constructing the website from the initial paper drawings, I used many Chrome templates to show any sizing issues while developing the wireframes. It was a process that could be called synergetic rather than in strict order. To finalise the wireframe designs that I had made it seemed reasonable to use the Chrome Tools templates that also had image frames. I have also included images for several other devices using just the homepage: Galaxy S20 Ultra (412 x 915), Moto G4 (360 x 640) and a Nexus 6P (412 x 732). All wireframe images are available
-<a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images" title="bcs_wireframe_images" target="_blank" alt="bcs_wireframe_images"
-rel="noopener">here.
-</a>
+Wireframes were constructed using Balsamiq Cloud. I concentrated on three main sizes: Google Nest Hub Max (1280 x 800), iPad (768 x 1024) and iPhone 6/7/8 (414 x 736), for each of the five pages. During the process of constructing the website from the initial paper drawings, I used many Chrome templates to show any sizing issues while developing the wireframes. It was a process that could be called synergetic rather than in strict order. To finalise the wireframe designs that I had made it seemed reasonable to use the Chrome Tools templates that also had image frames. I have also included images for several other devices using just the homepage: Galaxy S20 Ultra (412 x 915), Moto G4 (360 x 640) and a Nexus 6P (412 x 732). All wireframe images are available <a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images" title="bcs_wireframe_images" target="_blank" alt="bcs_wireframe_images"
+rel="noopener">here.</a>
+<br></br>
+Example wireframe: BCS_iPhone_homepage 
+    <div align="center">
+    <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Wireframe_iPhone/BCS_iPhone_homepage.jpg" title="BCS_wireframe_homepage_image" width="239" height="420" alt="bcs_contact_validation">
+    </div>
 <!--- end of wireframes --->
 <!--- page line --->
 ---
