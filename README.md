@@ -196,7 +196,7 @@ The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, 
         </li>
     </ul>
 W3 validations:
-        <br> 
+        <br></br> 
         <div align="center">
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_CSS_validation.png" title="BCS_CSS_validation_image" width="400" height="225" alt="bcs_CSS_validation">
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_index_homepage.png" title="BCS_homepage_validation_image" width="400" height="225" alt="bcs_homepage_validation">
@@ -205,7 +205,9 @@ W3 validations:
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_realities_page.png" title="BCS_realities_validation_image" width="400" height="225" alt="bcs_realities_validation">
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_contact_page.png" title="BCS_contact_validation_image" width="400" height="225" alt="bcs_contact_validation">
         </div>
-Example: PageSpeed Insight accessibility (there are ten altogether) which are in the assets/bcs_images/ directory.
+        <br></br>
+Example: PageSpeed Insight accessibility for homepage_mobile (there are ten altogether) which are in the assets/bcs_images/ directory.
+        <br></br>
         <div align="center">
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_homepage_mobile.png" title="bcs_PageSpeed_homepage_mobile" width="400" height="225" alt="bcs_PageSpeed_mobile">
         </div>
