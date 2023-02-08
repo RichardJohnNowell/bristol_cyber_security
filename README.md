@@ -185,20 +185,29 @@ The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, 
  
 <!--- begining of validation section --->
 ## Validation
- A new set of validation folders with images were uploaded on the 6th and 7th February 2023. They can now be found here: 
+ A new set of validation folders with images were uploaded on the 7th and 8th February 2023. They are in the assets/bcs_images/ directory and are
+ linked to below. The six pages are illustrated but the full size ones are in the folder linked to. 
     <ul>
-
+         <li>
+          <a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images/BCS_Validations_8thFeb2023" title="BCS_W3_validation    folder" target="_blank" rel="noopener">W3 validations</a>
+        </li>
          <li>
          <a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images/PageSpeed_Insights" title="New PageSpeed Insights folder" target="_blank" rel="noopener">PageSpeed Insight validations</a>
         </li>
     </ul>
-Example: W3 CSS validation
+W3 validations:
+        <br> 
         <div align="center">
-        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BSC_Nu_Validation_Folder_6th_march/BSC_CSS%20validation.png" title="BCS_CSS_validation_image" width="800" height="450" alt="bcs_CSS_validation">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_CSS_validation.png" title="BCS_CSS_validation_image" width="400" height="225" alt="bcs_CSS_validation">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_index_homepage.png" title="BCS_homepage_validation_image" width="400" height="225" alt="bcs_homepage_validation">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_solutions_page.png" title="BCS_solutions_validation_image" width="400" height="225" alt="bcs_solutions_validation">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_blog_page.png" title="BCS_blog_validation_image" width="400" height="225" alt="bcs_blog_validation">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_realities_page.png" title="BCS_realities_validation_image" width="400" height="225" alt="bcs_realities_validation">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_contact_page.png" title="BCS_contact_validation_image" width="400" height="225" alt="bcs_contact_validation">
         </div>
-Example: PageSpeed Insight accessibility
+Example: PageSpeed Insight accessibility (there are ten altogether) which are in the assets/bcs_images/ directory.
         <div align="center">
-        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_homepage_mobile.png" title="bcs_PageSpeed_homepage_mobile" width="800" height="450" alt="bcs_PageSpeed_mobile">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_homepage_mobile.png" title="bcs_PageSpeed_homepage_mobile" width="400" height="225" alt="bcs_PageSpeed_mobile">
         </div>
 
 <!--- end of validation section --->
