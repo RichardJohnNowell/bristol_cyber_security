@@ -206,12 +206,20 @@ W3 validations:
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_contact_page.png" title="BCS_contact_validation_image" width="400" height="225" alt="bcs_contact_validation">
         </div>
         <br></br>
-Example: PageSpeed Insight accessibility for homepage_mobile (there are ten altogether) which are in the assets/bcs_images/ directory.
+PageSpeed Insight results for the five which are kept in the assets/bcs_images/ directory linked to above.
         <br></br>
         <div align="center">
-        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_homepage_mobile.png" title="bcs_PageSpeed_homepage_mobile" width="400" height="225" alt="bcs_PageSpeed_mobile">
-        </div>
-
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_homepage_mobile.png" title="bcs_PageSpeed_homepage_mobile" width="400" height="225" alt="bcs_PageSpeed_homepage_mobile">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_homepage_desktop.png" title="bcs_PageSpeed_homepage_desktop" width="400" height="225" alt="bcs_PageSpeed_homepage_desktop">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_solutions_mobile.png" title="bcs_PageSpeed_solutions_mobile" width="400" height="225" alt="bcs_PageSpeed_solutions_mobile">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_solutions_desktop.png" title="bcs_PageSpeed_solutions_desktop" width="400" height="225" alt="bcs_PageSpeed_solutions_desktop">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_blog_mobile.png" title="bcs_PageSpeed_blog_mobile" width="400" height="225" alt="bcs_PageSpeed_blog_mobile">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_blog_desktop.png" title="bcs_PageSpeed_blog_desktop" width="400" height="225" alt="bcs_PageSpeed_blog_desktop">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_realities_mobile.png" title="bcs_PageSpeed_realities_mobile" width="400" height="225" alt="bcs_PageSpeed_realities_mobile">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_realities_desktop.png" title="bcs_PageSpeed_realities_desktop" width="400" height="225" alt="bcs_PageSpeed_realities_desktop">
+       <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_contact_mobile.png" title="bcs_PageSpeed_contact_mobile" width="400" height="225" alt="bcs_PageSpeed_contact_mobile"> 
+       <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_contact_desktop.png" title="bcs_PageSpeed_contact_desktop" width="400" height="225" alt="bcs_PageSpeed_contact_desktop">
+       </div>
 <!--- end of validation section --->
  
 <!--- start of wireframe section --->
