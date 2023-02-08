@@ -185,8 +185,8 @@ The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, 
  
 <!--- begining of validation section --->
 ## Validation
- A new set of validation folders with images were uploaded on the 7th and 8th February 2023. They are in the assets/bcs_images/ directory and are
- linked to below. The six pages are illustrated but the full size ones are in the folder linked to. 
+ This set of screenshots of the validation results were uploaded on the 7th and 8th February 2023. They are in the assets/bcs_images/ directory and are
+ linked to below. Click on images to expand.
     <ul>
          <li>
           <a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images/BCS_Validations_8thFeb2023" title="BCS_W3_validation    folder" target="_blank" rel="noopener">W3 validations</a>
@@ -206,7 +206,7 @@ W3 validations:
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_contact_page.png" title="BCS_contact_validation_image" width="400" height="225" alt="bcs_contact_validation">
         </div>
         <br></br>
-PageSpeed Insight results for the five which are kept in the assets/bcs_images/ directory linked to above.
+PageSpeed Insight results for the five pages using mobiles and desktops. These are kept in the assets/bcs_images/ directory linked to above. Click on images to expand.
         <br></br>
         <div align="center">
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_homepage_mobile.png" title="bcs_PageSpeed_homepage_mobile" width="400" height="225" alt="bcs_PageSpeed_homepage_mobile">
@@ -227,7 +227,7 @@ PageSpeed Insight results for the five which are kept in the assets/bcs_images/ 
 Wireframes were constructed using Balsamiq Cloud. I concentrated on three main sizes: Google Nest Hub Max (1280 x 800), iPad (768 x 1024) and iPhone 6/7/8 (414 x 736), for each of the five pages. During the process of constructing the website from the initial paper drawings, I used many Chrome templates to show any sizing issues while developing the wireframes. It was a process that could be called synergetic rather than in strict order. To finalise the wireframe designs that I had made it seemed reasonable to use the Chrome Tools templates that also had image frames. I have also included images for several other devices using just the homepage: Galaxy S20 Ultra (412 x 915), Moto G4 (360 x 640) and a Nexus 6P (412 x 732). All wireframe images are available <a href="https://github.com/RichardJohnNowell/bristol_cyber_security/tree/main/assets/bcs_images" title="bcs_wireframe_images" target="_blank" alt="bcs_wireframe_images"
 rel="noopener">here.</a>
 <br></br>
-Example wireframe: BCS_iPhone_homepage 
+Example wireframe: BCS_iPhone_homepage. Click on image to expand..
     <div align="center">
     <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Wireframe_iPhone/BCS_iPhone_homepage.jpg" title="BCS_wireframe_homepage_image" width="239" height="420" alt="bcs_contact_validation">
     </div>
