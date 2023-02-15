@@ -203,7 +203,7 @@ W3 validations:
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_solutions_page.png" title="BCS_solutions_validation_image" width="400" height="225" alt="bcs_solutions_validation">
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_blog_page_2.png" title="BCS_blog_validation_image" width="400" height="225" alt="bcs_blog_validation">
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_realities_page.png" title="BCS_realities_validation_image" width="400" height="225" alt="bcs_realities_validation">
-        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_contact_page.png" title="BCS_contact_validation_image" width="400" height="225" alt="bcs_contact_validation">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/BCS_Validations_8thFeb2023/BCS_W3_contact_page_2.png" title="BCS_contact_validation_image" width="400" height="225" alt="bcs_contact_validation">
         </div>
         <br></br>
 PageSpeed Insight results for the five pages using mobiles and desktops. These are kept in the assets/bcs_images/ directory linked to above. Click on images to expand.
