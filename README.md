@@ -209,7 +209,7 @@ W3 validations:
 PageSpeed Insight results for the five pages using mobiles and desktops. These are kept in the assets/bcs_images/ directory linked to above. Click on images to expand.
         <br></br>
         <div align="center">
-        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_homepage_mobile.png" title="bcs_PageSpeed_homepage_mobile" width="400" height="225" alt="bcs_PageSpeed_homepage_mobile">
+        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_homepage_mobile_2.png" title="bcs_PageSpeed_homepage_mobile" width="400" height="225" alt="bcs_PageSpeed_homepage_mobile">
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_homepage_desktop.png" title="bcs_PageSpeed_homepage_desktop" width="400" height="225" alt="bcs_PageSpeed_homepage_desktop">
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_solutions_mobile.png" title="bcs_PageSpeed_solutions_mobile" width="400" height="225" alt="bcs_PageSpeed_solutions_mobile">
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_solutions_desktop.png" title="bcs_PageSpeed_solutions_desktop" width="400" height="225" alt="bcs_PageSpeed_solutions_desktop">
