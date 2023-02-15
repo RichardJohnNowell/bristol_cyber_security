@@ -217,7 +217,7 @@ PageSpeed Insight results for the five pages using mobiles and desktops. These a
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_blog_desktop_2.png" title="bcs_PageSpeed_blog_desktop" width="400" height="225" alt="bcs_PageSpeed_blog_desktop">
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_realities_mobile.png" title="bcs_PageSpeed_realities_mobile" width="400" height="225" alt="bcs_PageSpeed_realities_mobile">
         <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_realities_desktop.png" title="bcs_PageSpeed_realities_desktop" width="400" height="225" alt="bcs_PageSpeed_realities_desktop">
-       <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_contact_mobile.png" title="bcs_PageSpeed_contact_mobile" width="400" height="225" alt="bcs_PageSpeed_contact_mobile"> 
+       <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_contact_mobile_2.png" title="bcs_PageSpeed_contact_mobile" width="400" height="225" alt="bcs_PageSpeed_contact_mobile"> 
        <img src="https://github.com/RichardJohnNowell/bristol_cyber_security/blob/main/assets/bcs_images/PageSpeed_Insights/BCS_contact_desktop.png" title="bcs_PageSpeed_contact_desktop" width="400" height="225" alt="bcs_PageSpeed_contact_desktop">
        </div>
 <!--- end of validation section --->
