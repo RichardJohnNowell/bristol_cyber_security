@@ -185,7 +185,7 @@ The website was assembled with HTML 5 and CSS 3 using VS Code Desktop v 1.74.2, 
  
 <!--- begining of validation section --->
 ## Validation
- This set of screenshots of the validation results were uploaded on the 7th and 8th February 2023. They are in the assets/bcs_images/ directory and are
+ This set of screenshots of the validation results were uploaded on the 7th, 8th and 15th of February 2023. They are in the assets/bcs_images/ directory and are
  linked to below. Click on images to expand.
     <ul>
          <li>
