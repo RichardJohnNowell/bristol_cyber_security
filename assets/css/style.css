@@ -47,13 +47,13 @@ nav li {
 }
 
 nav a {
-  color: black;
+  color: #010203;
   display: block;
   text-decoration: none;
 }
 
 nav a:hover {
-  background-color: black;
+  background-color: #010203;
   color: gold;
 }
 
@@ -68,7 +68,7 @@ nav a:hover {
 .container {
   background-color: lightblue;
   border-radius: 5px;
-  color: black;
+  color: #1a1110;
   font-style: italic;
   font-weight: 400;
   margin: auto;
