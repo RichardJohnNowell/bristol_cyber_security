@@ -60,9 +60,11 @@ nav a:hover {
 /* ----------------------------------------homepage and socials*/
 
 #laptop {
+  height:16.4375rem;
   padding-bottom: 20px;
   position: static;
   text-align: center;
+  width: 21.875;
 }
 
 .container {
