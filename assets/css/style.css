@@ -80,8 +80,9 @@ nav a:hover {
 
 .footer {
   background-color: #e6a81f;
-  margin: 0;
-  min-height: 2.5rem;
+  margin: auto;
+  margin-top: 1.5rem;
+  min-height: 2rem;
 }
 
 .social-networks {
@@ -217,7 +218,7 @@ nav a:hover {
 }
 
 @media only screen and (min-width: 37.5625rem) {
-  nav ul, p {
+  nav ul, p, footer {
     width: 58%;
   }
 }
