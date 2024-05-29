@@ -28,24 +28,6 @@ p {
 
 /* ----------------------------------------menu */
 
-nav ul {
-  background-color: #e6a81f;
-  border-radius: 0.3125rem;
-  list-style: none;
-  margin: auto;
-  padding: 0;
-  text-align: center;
-}
-
-nav li {
-  display: inline-block;
-  font-size: 1.2rem;
-  font-weight: 500;
-  height: 2.5rem;
-  line-height: 2.5rem;
-  margin-left: 0.4375rem;
-}
-
 nav a {
   color: #010203;
   display: block;
@@ -57,13 +39,25 @@ nav a:hover {
   color: #e6a81f;
 }
 
-/* ----------------------------------------homepage and socials*/
+nav li {
+  display: inline-block;
+  font-size: 1.2rem;
+  font-weight: 500;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  margin-left: 0.4375rem;
+}
 
-#laptop {
-  padding-bottom: 1.25rem;
-  position: static;
+nav ul {
+  background-color: #e6a81f;
+  border-radius: 0.3125rem;
+  list-style: none;
+  margin: auto;
+  padding: 0;
   text-align: center;
 }
+
+/* ----------------------------------------homepage and socials*/
 
 .container {
   background-color: lightblue;
@@ -84,17 +78,23 @@ nav a:hover {
   min-height: 2rem;
 }
 
-.social-networks {
+#laptop {
+  padding-bottom: 1.25rem;
+  position: static;
   text-align: center;
 }
 
-.social-networks li {
-  display: inline;
+.social-networks {
+  text-align: center;
 }
 
 .social-networks i {
   font-size: 150%;
   margin: 1.25rem;
+}
+
+.social-networks li {
+  display: inline;
 }
 
 #websitecredit {
