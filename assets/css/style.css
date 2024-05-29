@@ -80,7 +80,6 @@ nav a:hover {
 
 .footer {
   background-color: #e6a81f;
-  margin: auto;
   margin-top: 1.5rem;
   min-height: 2rem;
 }
@@ -218,7 +217,7 @@ nav a:hover {
 }
 
 @media only screen and (min-width: 37.5625rem) {
-  nav ul, p, footer {
+  nav ul, p {
     width: 58%;
   }
 }
