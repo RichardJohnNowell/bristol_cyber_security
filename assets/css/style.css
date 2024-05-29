@@ -19,7 +19,7 @@ p {
 /* ----------------------------------------header */
 
 .header {
-  color: gold;
+  color: #e6a81f;
   font-weight: bold;
   letter-spacing: 0.125rem;
   padding-top: 0.625rem;
@@ -29,7 +29,7 @@ p {
 /* ----------------------------------------menu */
 
 nav ul {
-  background-color: gold;
+  background-color: #e6a81f;
   border-radius: 0.3125rem;
   list-style: none;
   margin: auto;
@@ -54,7 +54,7 @@ nav a {
 
 nav a:hover {
   background-color: #010203;
-  color: gold;
+  color: #e6a81f;
 }
 
 /* ----------------------------------------homepage and socials*/
