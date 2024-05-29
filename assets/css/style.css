@@ -78,8 +78,8 @@ nav a:hover {
   text-align: center;
 }
 
-footer {
-  color: #e6a81f;
+.footer {
+  background-color: #e6a81f;
   height: 3.125rem;
 }
 
