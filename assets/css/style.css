@@ -100,7 +100,7 @@ nav ul {
 }
 
 #phonedanger {
-  color: red;
+  color: #ce2029;
 }
 
 .phonetips {
@@ -109,14 +109,14 @@ nav ul {
 }
 
 #solutions_h2 {
-  color: red;
+  color: #ce2029;
   font-size: 1.5rem;
   font-weight: 700;
   text-align: center;
 }
 
 #solutions_h3 {
-  color: red;
+  color: #ce2029;
   font-size: 1.5rem;
   font-weight: 700;
   text-align: center;
