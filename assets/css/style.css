@@ -75,26 +75,13 @@ nav ul {
 .footer {
   background-color: #e6a81f;
   margin-top: 1.5rem;
-  min-height: 2rem;
+  min-height: 2.5rem;
 }
 
 #laptop {
   padding-bottom: 1.25rem;
   position: static;
   text-align: center;
-}
-
-.social-networks {
-  text-align: center;
-}
-
-.social-networks i {
-  font-size: 150%;
-  margin: 1.25rem;
-}
-
-.social-networks li {
-  display: inline;
 }
 
 #websitecredit {
