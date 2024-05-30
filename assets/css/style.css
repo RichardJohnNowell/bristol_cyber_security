@@ -74,8 +74,8 @@ nav ul {
 
 .footer {
   background-color: #e6a81f;
-  margin-top: 1.5rem;
-  min-height: 3.0rem;
+  min-height: 3rem;
+  padding-top: 2rem
 }
 
 #laptop {
