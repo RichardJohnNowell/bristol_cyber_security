@@ -57,6 +57,19 @@ nav ul {
   text-align: center;
 }
 
+/* ----------------------------------------flexbox */
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-container > div {
+  margin: 0.4rem;
+  padding: 1.2rem;
+}
+
 /* ----------------------------------------homepage and socials*/
 
 .container {
@@ -75,12 +88,6 @@ nav ul {
 .footer {
   background-color: #e6a81f;
   min-height: 3rem;
-}
-
-#laptop {
-  padding-bottom: 1.25rem;
-  position: static;
-  text-align: center;
 }
 
 #websitecredit {
