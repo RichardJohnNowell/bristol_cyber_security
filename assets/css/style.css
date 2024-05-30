@@ -60,7 +60,7 @@ nav ul {
 /* ----------------------------------------homepage and socials*/
 
 .container {
-  background-color: lightblue;
+  background-color: #ace5ee;
   border-radius: 0.3125rem;
   color: #1a1110;
   font-style: italic;
@@ -156,7 +156,7 @@ nav ul {
 }
 
 .threats a:hover {
-  background-color: silver;
+  background-color: #acacac;
   color: #010203;
 }
 
@@ -180,7 +180,7 @@ nav ul {
 
 #dividing_line {
   text-align: center;
-  background-color: white;
+  background-color: #fefdfa;
   height: 0.125rem;
   width: 52%;
 }
