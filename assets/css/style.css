@@ -214,14 +214,20 @@ nav ul {
 /* ----------------------------------------media queries */
 
 @media only screen and (min-width: 37.5625rem) {
-  .contact_container, .container, .facts, .figure, .phonetips, .threats {
-    width: 56%;
+  .contact_container,
+  .container,
+  .facts,
+  .figure,
+  .phonetips,
+  .threats {
+      width: 56%;
   }
 }
 
 @media only screen and (min-width: 37.5625rem) {
-  nav ul, p {
-    width: 58%;
+  nav ul,
+  p {
+      width: 58%;
   }
 }
 
