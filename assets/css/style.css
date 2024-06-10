@@ -120,6 +120,17 @@ nav ul {
     font-weight: 700;
     text-align: center;
 }
+
+/*-------- h4 */
+
+#solutions_h4 {
+    color: #ce2029;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+/*--- comment */
 .blog {
     padding: 1.25rem 0.625rem 1.25rem 0.625rem;
     position: static;
