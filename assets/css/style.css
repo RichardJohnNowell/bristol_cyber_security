@@ -136,7 +136,7 @@ nav ul {
 }
 /*----------------------------------guide */
 
-#guide {
+.guide {
     color: #ce2029;
     font-size: 1.5rem;
     font-weight: 500;
