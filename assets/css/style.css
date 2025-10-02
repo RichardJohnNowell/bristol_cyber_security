@@ -187,15 +187,6 @@ nav ul {
     min-height: 3rem;
 }
 
-/*--------------------------------------jotform */
-
-#JotFormIFrame-231864072231349 {
-    min-width: 100%;
-    max-width: 100%;
-    height: 33.6875rem;
-    border: none;
-}
-
 /*--------------------------------------media queries */
 
 @media only screen and (min-width: 37.5625rem) {
