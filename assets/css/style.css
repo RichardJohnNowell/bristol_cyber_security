@@ -180,35 +180,6 @@ nav ul {
     color: #010203;
 }
 
-/*------------------------------contacts */
-
-.contacts {
-    margin: auto;
-    width: 52%;
-}
-
-.contact_container {
-    border-radius: 0.625rem;
-    margin: auto;
-    padding: 0.625rem;
-}
-
-#contact_here {
-    font-weight: 700;
-    font-size: 1.3rem;
-}
-
-#dividing_line {
-    text-align: center;
-    background-color: #fefdfa;
-    height: 0.125rem;
-    width: 52%;
-}
-
-.line_padding {
-    padding-bottom: 8px;
-}
-
 /*------------------------------------footer */
 
 .footer {
